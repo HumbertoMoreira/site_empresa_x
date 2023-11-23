@@ -30,6 +30,10 @@ __Melhoria 1__, _Melhoria 2_
 3. Sistema de bônus na primeira compra
 
 
-### Imagem local
+#### Imagem local
 
 ![Logo do Python](img/Python-logo-notext.svg.png)
+
+#### Imagem externa
+
+![logo PHP](https://pt.wikipedia.org/wiki/PHP#/media/Ficheiro:PHP-logo.svg)
